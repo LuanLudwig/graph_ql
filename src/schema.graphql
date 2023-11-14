@@ -1,0 +1,5 @@
+type Books{
+    title: String!
+    isbn: String!
+    pageCount: Int!
+}
